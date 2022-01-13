@@ -40,4 +40,3 @@ elif (a == d and b > m) or (a > d and b >= m ):
     print("Возраст:", y - h - 1)
 elif a == d and b == m:
     print("Сегодня День Рождения:", y - h)
-
